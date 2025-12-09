@@ -60,6 +60,12 @@ The site uses a "Tech Human" theme balancing technological innovation with human
 - **Accent**: Electric Cyan (#00f5ff) for innovation
 - **Warm**: Amber (#ffb347) for human connection
 
+## MCP Servers
+
+This project uses the Exa MCP server for enhanced web search capabilities. The server is configured in `.mcp.json` and will be automatically loaded when you start Claude Code in this directory.
+
+To use the Exa MCP server, you'll need to approve it when prompted by Claude Code.
+
 ## Project Structure
 
 See [PLAN.md](./PLAN.md) for detailed development roadmap and [CLAUDE.md](./CLAUDE.md) for technical guidance.
